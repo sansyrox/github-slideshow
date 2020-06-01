@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sanskar Jethi - PodName Syntactic Seahorses!
 Use the left arrow to go back!
